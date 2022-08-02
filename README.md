@@ -1,4 +1,4 @@
-# TestTask
+# Proxy Parser
 # Using scrapy and scrapy-splash.
 ## To run project you need run splash server in docker.
 ### Than you need to open project in terminal and use:
